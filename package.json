@@ -1,0 +1,15 @@
+{
+  "name": "ecom1",
+  "version": "1.0.0",
+  "description": "ecommerce website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "author": "muhammad wasi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {}
+}
